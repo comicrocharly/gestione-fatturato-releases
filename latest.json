@@ -1,0 +1,14 @@
+{"version":"0.8.9","notes":[
+  "Mese: riga Totale — le quantità libere non allargano più la colonna (scala sul valore) e l'hover evidenzia l'intestazione come le altre colonne",
+  "Mese: riga Totale a spessore fisso (l'hover non la dilata) e buffer barra ridotto a 10px",
+  "Mese: buffer a destra della griglia per la barra di scorrimento",
+  "UI mese: ingrandimento identico (+4px) anche sulle celle della riga Totale",
+  "UI mese: ingrandimento del contenuto anche sulle celle della riga Totale",
+  "UI mese: l'hover sulle riga giorno non evidenzia più la cella totale della colonna",
+  "UI mese: la croce dell'hover si estende alla riga Totale",
+  "UI mese: nome centro ancorato al bordo della cella, mai invisibile",
+  "UI mese: nome centro — mai oltre il limite della propria cella",
+  "UI mese: correzioni griglia — drag prestazioni, nomi centro in scroll, riga Totale, hover",
+  "release: publish.sh genera il body della release dal changelog (commit)",
+  "release: drop GitHub Actions CD (billing); publish 100% locale solo-Windows"
+],"pub_date":"2026-10-31T21:06:03Z","platforms":{"windows-x86_64":{"url":"https://github.com/comicrocharly/gestione-fatturato-releases/releases/download/0.8.9/Gestione.Fatturato_0.8.9_x64-setup.exe","sig":"b9a18f779bdf1f3aba1d3572534c1ae47d4645c0739c0b458adf796e01010dbd","sha256":""}}}
